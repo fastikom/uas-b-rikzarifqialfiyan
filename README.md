@@ -8,4 +8,5 @@ NAMA : Rikza Rifqi Alfiyan
 FRONTEND
 NIM : 2014157001
 NAMA : Faela Luqfuadah
+Link : https://github.com/fastikom/uas-b-Faelaluqfuadah
 
